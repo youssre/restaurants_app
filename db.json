@@ -1,0 +1,30 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "yousri",
+      "email": "youssre092@gmail.com",
+      "password": "abc123"
+    },
+    {
+      "email": "youssre092@gmail.com",
+      "name": "ali",
+      "password": "321",
+      "id": 2
+    },
+    {
+      "email": "youssre092@gmail.com",
+      "name": "ali",
+      "password": "123",
+      "id": 3
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "burger king",
+      "address": "cairo festival",
+      "contact": 11111,
+      "id": 1
+    }
+  ]
+}
